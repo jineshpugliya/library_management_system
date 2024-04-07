@@ -115,7 +115,7 @@
               Vinay Sipani <br>
               Indra Chowk New Lane<br>
               Bikaner,Rajasthan,India <br><br>
-              <strong>Phone:</strong> +91 7877158428<br>
+              <strong>Phone:</strong> +91 9887398311<br>
               <strong>Email:</strong> Elitelibrary@gmail.com<br>
             </p>
           </div>

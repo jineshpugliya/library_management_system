@@ -126,10 +126,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Elite Library </h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +91 7877158428<br>
+              Gangashahar <br>
+              Bikaner<br>
+              Rajasthan <br><br>
+              <strong>Phone:</strong> +91 9887398311<br>
               <strong>Email:</strong> elitelib@gmail.com<br>
             </p>
           </div>
@@ -150,7 +150,7 @@
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/ -->
-          Designed by <a href="https://www.axixatechnologies.com/">Axixa Technology</a>
+          Designed by <a href="https://jineshpugliya.github.io/my-portfolio/">Jinesh Puglia</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
